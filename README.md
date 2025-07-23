@@ -49,7 +49,7 @@ This project uses **Generative AI (via OpenRouter API)** to convert human-like q
    cd GenAi_Ecommerce
 ## 📽️ Demo Video + Project Files
 
-🎥 [Click here to watch the demo and download all files](https://drive.google.com/file/d/1-MjcGHE0OhHAA3FfChAfgeQfLV3FWtqk/view?usp=drive_link)
+🎥 [Click here to watch the Output] https://drive.google.com/file/d/1-MjcGHE0OhHAA3FfChAfgeQfLV3FWtqk/view?usp=drive_link
 
 This Google Drive contains:
 - Demo video presentation 🎬
